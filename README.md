@@ -2,7 +2,7 @@
 ## :school: Education:
 I'm a CS student at Wroclaw University of Science and Technology :poland:
 
-## :computer: Preferable technologies:
+## :computer: Preferred technologies:
 I prefer working on the backend side with Java, Python and C#
 
 ## :man_technologist: What have I worked with?
