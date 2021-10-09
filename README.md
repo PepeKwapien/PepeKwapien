@@ -1,6 +1,6 @@
 # 👋:smile: Hi, I’m @PepeKwapien
 ## :school: Education:
-I'm a CS student at Wroclaw University of Science and Technology :poland:
+I'm a CS student at Wroclaw University of Science and Technology currently working as a C# Software Engineer at Unit4 :poland:
 
 ## :computer: Preferred technologies:
 I prefer working on the backend side with Java, Python and C#
@@ -17,7 +17,7 @@ I prefer working on the backend side with Java, Python and C#
 - Android
 
 ## :books: Currently learning:
-Learning JavaScript and improving my knowledge on HTML and CSS
+Learning React and JS
 
 ## :star2: Present goal:
 My current goal is to hone my programming skills further and gain some experience as a Software Engineer
@@ -31,6 +31,8 @@ My current goal is to hone my programming skills further and gain some experienc
 
 ### Contact:
 Mail: pppkwapien@gmail.com
+
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pawe%C5%82-kwapie%C5%84-833841222/)
 
 Facebook: [Paweł Kwapień](https://www.facebook.com/p.kwapien/)
 
