@@ -1,14 +1,14 @@
 # 👋:smile: Hi, I’m @PepeKwapien
 ## :school: Education:
-I finished my Engineer Degree and I'm currently looking for work :poland:
+I finished my Engineer Degree and I'm currently working for Netcompany Poland :poland:
 
 ## :computer: Preferred technologies:
-I prefer working on the backend side with Java, Python and C#
+I prefer working on the backend side with C#, Python and Java
 
 ## :man_technologist: What have I worked with?
-- Java
-- Python
 - C# & .Net Core
+- Python
+- Java
 - C++
 - Scala
 - OCaml
@@ -17,7 +17,7 @@ I prefer working on the backend side with Java, Python and C#
 - Android
 
 ## :books: Currently learning:
-Learning JS
+Microservices and React.js
 
 ## :star2: Present goal:
 My current goal is to hone my programming skills further and gain some experience as a Software Engineer
