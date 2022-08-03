@@ -9,18 +9,19 @@ I prefer working on the backend side with C#, Python and Java
 - C# & .Net Core
 - Python
 - Java
-- C++
+- Javascript
+- C++ (sigh...)
 - Scala
 - OCaml
-- SQL, Oracle Database, Microsoft SQL
+- SQL, Oracle Database, SQL Server
 - HTML, CSS
 - Android
 
 ## :books: Currently learning:
-Microservices and React.js
+Angular and expanding knowledge on various .Net projects (e.g. API and Class library)
 
 ## :star2: Present goal:
-My current goal is to hone my programming skills further and gain some experience as a Software Engineer
+My current goal is to hone my programming skills further and find satisfying job as a Software Engineer
 
 ## :adult: Briefly about me:
 - [x] Open to new experiences
