@@ -1,34 +1,47 @@
 # 👋:smile: Hi, I’m @PepeKwapien
+## 🤔 Who am I?
+My name is Paweł but my friends call me <b>Pepe</b> <sub><sup>(I was called Pepe before Pepe the frog became a thing ok?)</sup></sub>
+
+I am a Software Engineer that always looks for an opportunity to challenge myself and learn something new
+
+## 👔 Current Occupation
+I work as a Fullstack Developer in <b>Canon Ophthalmic Technologies</b>
+
+Apart from my software engineer duties I also take a big part in managing my team as a Team Lead
+
+## 🔨 Technologies I work with
+In my current job I mostly use:
+- TypeScript, Ts.ED
+- Angular, Html, CSS, SCSS
+- .Net, C#
+- Docker <sub><sup>(sometimes painful amount of it...)</sup></sub>
+- Postres, MariaDb, Mongo,
+- Linux servers, Nginx and Azure pipelines
+
 ## :school: Education:
-I finished my Engineer Degree and I'm currently working for Netcompany Poland :poland:
+I graduated from Wrocław University of Science and Technology :poland: with Engineer Degree
 
-## :computer: Preferred technologies:
-I prefer working on the backend side with C#, Python and Java
+## ⚽ My hobbies and interests (as a riddle)
+💪📚🇯🇵✍️🧘
 
-## :man_technologist: What have I worked with?
-- C# & .Net Core
+## 😎 More about me:
+- [x] Can-do attitude
+- [x] Easy-going
+- [x] Telling knee-slapping jokes
+- [x] Meticulous
+- [x] Organized
+- [x] Honest with myself
+- [x] Self-disciplined
+
+## :man_technologist: Other technologies I have worked with
 - Python
+- React
 - Java
-- Javascript
-- C++ (sigh...)
+- C++ <sub><sup>(sigh...)</sup></sub>
 - Scala
 - OCaml
-- SQL, Oracle Database, SQL Server
-- HTML, CSS
+- Oracle Database, SQL Server
 - Android
-
-## :books: Currently learning:
-Angular and expanding knowledge on various .Net projects (e.g. API and Class library)
-
-## :star2: Present goal:
-My current goal is to hone my programming skills further and find satisfying job as a Software Engineer
-
-## :adult: Briefly about me:
-- [x] Open to new experiences
-- [x] Can-do attitude
-- [x] I like working in groups with responsible and communicative people
-- [x] Meticulous and sociable
-- [x] Self-critical
 
 ### Contact:
 Mail: pppkwapien@gmail.com
