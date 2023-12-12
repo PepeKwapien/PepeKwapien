@@ -1,11 +1,11 @@
-# 👋:smile: Hi, I’m @PepeKwapien
+# 👋😃 Hi, I’m @PepeKwapien
 ## 🤔 Who am I?
 My name is Paweł but my friends call me <b>Pepe</b> <sub><sup>(I was called Pepe before Pepe the frog became a thing ok?)</sup></sub>
 
 I am a Software Engineer that always looks for an opportunity to challenge myself and learn something new
 
 ## 👔 Current Occupation
-I work as a Fullstack Developer in <b>Canon Ophthalmic Technologies</b>
+I work as a Senior Software Engineer in <b>Canon Ophthalmic Technologies</b>
 
 Apart from my software engineer duties I also take a big part in managing my team as a Team Lead
 
